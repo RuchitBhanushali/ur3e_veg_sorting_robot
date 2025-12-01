@@ -133,7 +133,7 @@ Vegetable Sorting Group Project (UR3e + Computer Vision)
 
 ---
 
-# `LICENSE` file (MIT License) — copy & paste as `LICENSE`
+# `LICENSE`
 
 ```text
 MIT License
