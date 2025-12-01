@@ -1,0 +1,21 @@
+# Ignore workspace build output
+build/
+install/
+log/
+
+# Ignore external dependencies we clone separately
+src/Universal_Robots_ROS2_Description/
+src/Universal_Robots_ROS2_Driver/
+src/robotiq_2f_gripper_ros2/
+src/realsense-ros/
+
+# Ignore Python trash
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore editor/OS files
+*.swp
+*.swo
+.DS_Store
+
